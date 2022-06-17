@@ -1,0 +1,1 @@
+http://localhost/hotel_reservation/extraService/index

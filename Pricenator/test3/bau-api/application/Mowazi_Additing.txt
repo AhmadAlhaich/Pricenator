@@ -1,0 +1,34 @@
+Mowazi :
+  _Company :
+    * قابلة للتدوال & غير قابلة للتداول are deleted from filter
+    * forBid Column are deleted from tableView
+
+  _Company details :
+    * Trade and Orders are deleting from
+    * AboutCompany is reading from url in Configuration and CompanyId
+
+  _ Add OTC Page in Home & TabBar & Drawer (Live - Delayed)
+  _ Edit Icon in TabBar and set Title
+  _ Add Done Button to all Keyboard Field in app
+
+  _Home Page :
+    * News is moving from row 3 to row 1
+    * 3 Page are aded in row 2 : Live Market - DelayMarket - background
+    * in TabBar , we Remove MyOrder & MyTrades
+    * PriceTicker is hiding & replacing by TradeTicker
+    * MyOrder is removing from UI App
+    * Change the icon of Page
+
+  _Trade Page : the price value is set from configuration if is Sell/Buy
+
+  _Loading : The App now auto login to HomePage if RememberMe is pressed
+
+  _OTC : add "بيانات الأسعار الفورية صادرة عن بورصة الكويت وفقاً لشروط وأحكام اتفاقية ترخيص استخدام المعلومات" to OTC Page
+
+  _News :
+    * BtnShare Read Link from Configuration and add NewsId
+
+Unlisted :
+  1_ Orders Tab is deleting in normal mowazi , but not deleted yet in unlisted
+  2_ All Orders Page Are Deleted (Orders Summary - Mowazi Orders - MyOrders - PlaceOrder)
+  3_ The Home Screen Contain Now 3 Page (Comapny - News - Last Deals)

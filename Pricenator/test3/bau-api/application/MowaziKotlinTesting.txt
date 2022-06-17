@@ -1,0 +1,33 @@
+
+_Last Deals :
+  * Done: if i choose Sector Filter (Banking) , and i scroll down to load more , the data disappear
+  * Done: When i open the page , the Company Arrow is autoSelect to Up , but data is dont order from a to z .. when i double press the arrow , the data is now order a to z
+
+
+_Company details :
+  * Done: the page open site but ymkn bala CompanyId (link : https://www.almowazi.com/TestPublic/MobileCompnayProfile.aspx?ID=)
+
+
+_General Assembly :
+  * Done: i filter to date 10 sep 2018 , the page do load more but getting the same data , duplicate .
+  * Done: when i open General Community , no data exist , but when i reset from filter , the data is exist but the filter Year is empty
+
+
+_News :
+  * Done: When the general news is loading and i choose assembly news, the app crash
+
+
+_Reports :
+  * Done: when any page is loading and i go to another speedly , the app crash
+
+
+_TabBar :
+  *the Favorite Company & OTC must Contains Drawer ?
+
+
+_Videos Library :
+  * Done: Load more the same data many time
+
+
+_Logout :
+  * Done: when click logout , he logout speedly and Doesnt appears msg "Are you sure you want to logout ..."
